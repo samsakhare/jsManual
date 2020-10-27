@@ -1,2 +1,3 @@
 # jsManual
- Java Script Manual - just simple example and know hows
+
+Java Script Manual - just simple example and know hows
